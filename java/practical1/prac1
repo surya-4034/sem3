@@ -1,0 +1,9 @@
+1a) Write a Java program to display "Hello World!" 
+Code: 
+public class Hello { 
+public static void main(String args[])  
+{ 
+    
+    System.out.println("Hello World!"); 
+    } 
+}
