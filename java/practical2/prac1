@@ -1,11 +1,11 @@
 /*2a) Write a Java program to implement Single level inheritance 
 Code: */
-class parent { 
+class prac1 { 
 void display() { 
 System.out.println("Parent Class"); 
 } 
 } 
-class child extends parent { 
+class child extends prac1 { 
 void print() { 
 System.out.println("Child Class"); 
 } 
