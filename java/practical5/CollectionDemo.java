@@ -1,4 +1,4 @@
-/*5a) Write a Java Program to demonstrate Key Collection Framework Classes 
+ /*5a) Write a Java Program to demonstrate Key Collection Framework Classes 
 Code: */
 import java.util.*; 
 public class CollectionDemo { 
