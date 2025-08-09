@@ -5,7 +5,7 @@ public abstract int sqr(int n1);    // abstract method for square
 public abstract int cube(int n1);   // abstract method for cube 
 public void display() {    
           //
- concrete method;
+
 System.out.println("Hello SYCS"); 
 } 
 } 
