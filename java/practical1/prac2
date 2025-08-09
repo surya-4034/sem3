@@ -1,6 +1,6 @@
 1b) Write a Java program to display all the data types. 
 Code: 
-public class DataTypes { 
+public class prac2 { 
 public static void main(String[] args) { 
 byte b = 10; 
 short s = 100; 

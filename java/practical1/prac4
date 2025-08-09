@@ -3,7 +3,7 @@
 /*
 1d) Write a Java program to display different patterns:
 ode: */
-public class Patterns { 
+public class Prac4 { 
 public static void main(String args[]) { 
 // Pattern 1 
 for (int i = 1; i <= 5; i++) { 

@@ -1,6 +1,6 @@
 1a) Write a Java program to display "Hello World!" 
 Code: 
-public class Hello { 
+public class prac1 { 
 public static void main(String args[])  
 { 
     
