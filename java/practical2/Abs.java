@@ -21,7 +21,7 @@ return n1 * n1 * n1;
 public static void main(String args[]) { 
 Abs a1 = new Abs(); 
 System.out.println("Square is: " + a1.sqr(5)); 
-System.out.println("Cube is: " + a1.cube(5)); 
+System.out.println("Cube is: " + a1.cube(7)); 
 a1.display();    // calling concrete method from abstract class 
 } 
 }
