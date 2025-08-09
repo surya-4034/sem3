@@ -1,9 +1,8 @@
-1a) Write a Java program to display "Hello World!" 
-Code: 
+/*1a) Write a Java program to display "Hello World!" 
+Code: */
 public class prac1 { 
 public static void main(String args[])  
 { 
-    
-    System.out.println("Hello World!"); 
+System.out.println("Hello World!"); 
     } 
 }
