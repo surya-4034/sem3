@@ -1,5 +1,5 @@
-1b) Write a Java program to display all the data types. 
-Code: 
+// 1b) Write a Java program to display all the data types. 
+ 
 public class prac2 { 
 public static void main(String[] args) { 
 byte b = 10; 
@@ -15,7 +15,7 @@ System.out.println("short: " + s);
 System.out.println("int: " + i); 
 System.out.println("long: " + l); 
 System.out.println("float: " + f); 
-R K TALREJA COLLEGE   
+// R K TALREJA COLLEGE   
 System.out.println("double: " + d); 
 System.out.println("char: " + c); 
 System.out.println("boolean: " + bool); 
