@@ -11,8 +11,6 @@ int x = a[1] / (b - a[0]);
 catch (ArithmeticException ae)  
 { 
 System.out.println(ae);        
-// This is 10 / 0  
-// Prints: java.lang.ArithmeticException: / by zero 
 System.out.println("Divide By Zero Error"); 
 }  
 catch (IndexOutOfBoundsException ab) 
